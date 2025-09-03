@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>REPOSITORIO DE INFORMACIÓN (dinámico)</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header class="header">
+    <h1>REPOSITORIO</h1>
+    <p class="subtitle">Los botones se cargan desde <code>botones.json</code>. Edita ese archivo para agregar, quitar o modificar.</p>
+  </header>
+
+  <section class="controls">
+    <input id="search" type="search" placeholder="Filtrar por nombre..." aria-label="Filtrar botones por nombre" />
+    <button id="recargar" type="button" class="btn small">Recargar datos</button>
+  </section>
+
+  <main>
+    <div id="grid" class="grid" aria-live="polite" aria-busy="true"></div>
+  </main>
+
+  <section class="panel">
+    <div id="resultado" class="resultado" aria-live="polite"></div>
+  </section>
+
+  <footer class="footer">
+    <small>Hecho con ❤️. </small>
+  </footer>
+</body>
+</html>

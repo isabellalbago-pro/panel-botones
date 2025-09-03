@@ -1,0 +1,26 @@
+[
+  {
+    "texto": "Google",
+    "tipo": "link",
+    "url": "https://www.google.com"
+  },
+  {
+    "texto": "YouTube",
+    "tipo": "link",
+    "url": "https://www.youtube.com"
+  },
+  {
+    "texto": "Mensaje de bienvenida",
+    "tipo": "mensaje",
+    "datos": "👋 ¡Hola! Edita botones.json para personalizar tus botones."
+  },
+  {
+    "texto": "Repositorio de la empresa",
+    "tipo": "link",
+    "url": "https://meswebgsft-itu.azure.intra.pepsico.com/Thingworx/Runtime/index.html#master=PepsiCo_Master&mashup=MES_Dashboard&__applyThemeName=PepsiCo%20Default%20Theme&_refreshTS=1751905393269"
+  },
+  {
+    "texto": "Botón sin datos",
+    "tipo": "nodata"
+  }
+]
