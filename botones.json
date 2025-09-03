@@ -1,26 +1,27 @@
 [
   {
-    "texto": "Google",
-    "tipo": "link",
-    "url": "https://www.google.com"
-  },
-  {
-    "texto": "YouTube",
-    "tipo": "link",
-    "url": "https://www.youtube.com"
-  },
-  {
-    "texto": "Mensaje de bienvenida",
+    "texto": "MES-FUNZA",
     "tipo": "mensaje",
-    "datos": "👋 ¡Hola! Edita botones.json para personalizar tus botones."
+    "datos": "Esperando el link"
   },
   {
-    "texto": "Repositorio de la empresa",
+    "texto": "MES-MEXICALI",
+    "tipo": "link",
+    "url": "https://meswebgsftmexicali.azure.intra.pepsico.com/Thingworx/Runtime/index.html#master=PepsiCo_Master&mashup=MES_Dashboard&__applyThemeName=PepsiCo%20Default%20Theme&_refreshTS=1670527225809"
+  },
+  {
+    "texto": "MES-VALLEJO",
+    "tipo": "link",
+    "url": "http://meswebvallejo.cww.pep.pvt:8080/Thingworx/Runtime/index.html#master=PepsiCo_Master&mashup=MES_Dashboard&__applyThemeName=PepsiCo%20Default%20Theme&_refreshTS=1699472010413"
+  },
+  {
+    "texto": "MES-ITU",
     "tipo": "link",
     "url": "https://meswebgsft-itu.azure.intra.pepsico.com/Thingworx/Runtime/index.html#master=PepsiCo_Master&mashup=MES_Dashboard&__applyThemeName=PepsiCo%20Default%20Theme&_refreshTS=1751905393269"
   },
   {
-    "texto": "Botón sin datos",
-    "tipo": "nodata"
+    "texto": "MES-SALTILLO",
+    "tipo": "link",
+    "url": "https://meswebgsft-saltillo.azure.intra.pepsico.com/Thingworx/Runtime/index.html#master=PepsiCo_Master&mashup=MES_Dashboard&__applyThemeName=PepsiCo%20Default%20Theme&_refreshTS=1752004792384"
   }
 ]
