@@ -1,1 +1,38 @@
-[{"texto": "Manual AMAX"}]
+[
+  {
+    "texto": "Links AMAX",
+    "tipo": "link",
+    "url": "https://example.com/amax/links",
+    "categoria": "Links"
+  },
+  {
+    "texto": "Playbook AMAX",
+    "tipo": "link",
+    "url": "https://example.com/amax/playbook",
+    "categoria": "Play Book"
+  },
+  {
+    "texto": "Manual técnico",
+    "tipo": "link",
+    "url": "https://example.com/amax/manual",
+    "categoria": "Manuales"
+  },
+  {
+    "texto": "Time Line Migración",
+    "tipo": "link",
+    "url": "https://example.com/amax/timeline",
+    "categoria": "Time Lines"
+  },
+  {
+    "texto": "Presentación AMAX",
+    "tipo": "link",
+    "url": "https://example.com/amax/ppt",
+    "categoria": "Presentaciones"
+  },
+  {
+    "texto": "Diagnóstico inicial",
+    "tipo": "mensaje",
+    "datos": "Checklist: red, puertos, drivers",
+    "categoria": "Troubleshooting"
+  }
+]

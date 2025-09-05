@@ -1,1 +1,38 @@
-[{"texto": "Manual MES"}, {"texto": "Playbook MES"}]
+[
+  {
+    "texto": "Links",
+    "tipo": "link",
+    "url": "https://example.com/mes/links",
+    "categoria": "Links"
+  },
+  {
+    "texto": "Playbook MES",
+    "tipo": "link",
+    "url": "https://example.com/mes/playbook",
+    "categoria": "Play Book"
+  },
+  {
+    "texto": "Manual de usuario",
+    "tipo": "link",
+    "url": "https://example.com/mes/manual",
+    "categoria": "Manuales"
+  },
+  {
+    "texto": "Time Line Proyecto X",
+    "tipo": "link",
+    "url": "https://example.com/mes/timeline",
+    "categoria": "Time Lines"
+  },
+  {
+    "texto": "Presentación Demo",
+    "tipo": "link",
+    "url": "https://example.com/mes/ppt",
+    "categoria": "Presentaciones"
+  },
+  {
+    "texto": "TS básico",
+    "tipo": "mensaje",
+    "datos": "Verifica PLC, red y query SQL",
+    "categoria": "Troubleshooting"
+  }
+]

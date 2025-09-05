@@ -1,1 +1,38 @@
-[{"texto": "Manual TP"}]
+[
+  {
+    "texto": "Links TP",
+    "tipo": "link",
+    "url": "https://example.com/tp/links",
+    "categoria": "Links"
+  },
+  {
+    "texto": "Playbook TP",
+    "tipo": "link",
+    "url": "https://example.com/tp/playbook",
+    "categoria": "Play Book"
+  },
+  {
+    "texto": "Manual TP",
+    "tipo": "link",
+    "url": "https://example.com/tp/manual",
+    "categoria": "Manuales"
+  },
+  {
+    "texto": "Time Line TP",
+    "tipo": "link",
+    "url": "https://example.com/tp/timeline",
+    "categoria": "Time Lines"
+  },
+  {
+    "texto": "Presentación TP",
+    "tipo": "link",
+    "url": "https://example.com/tp/ppt",
+    "categoria": "Presentaciones"
+  },
+  {
+    "texto": "TS rápido",
+    "tipo": "mensaje",
+    "datos": "Revisa credenciales y endpoints",
+    "categoria": "Troubleshooting"
+  }
+]

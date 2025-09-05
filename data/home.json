@@ -1,1 +1,17 @@
-[{"texto": "MES"}, {"texto": "AMAX"}, {"texto": "TP"}]
+[
+  {
+    "nombre": "MES",
+    "ruta": "mes.html",
+    "descripcion": "Información de MES"
+  },
+  {
+    "nombre": "AMAX",
+    "ruta": "amax.html",
+    "descripcion": "Información de AMAX"
+  },
+  {
+    "nombre": "TP",
+    "ruta": "tp.html",
+    "descripcion": "Información de Teleplaneta"
+  }
+]
