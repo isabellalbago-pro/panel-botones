@@ -1,0 +1,25 @@
+[
+  {
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "enlaces": [
+      { "texto": "Portal MES MX", "url": "https://example.com/mx/mes" },
+      { "texto": "Manual MX",     "url": "https://example.com/mx/manual" }
+    ]
+  },
+  {
+    "pais": "Brasil",
+    "bandera": "🇧🇷",
+    "enlaces": [
+      { "texto": "Portal MES BR", "url": "https://example.com/br/mes" },
+      { "texto": "Playbook BR",   "url": "https://example.com/br/playbook" }
+    ]
+  },
+  {
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "enlaces": [
+      { "texto": "Portal MES CO", "url": "https://example.com/co/mes" }
+    ]
+  }
+]
