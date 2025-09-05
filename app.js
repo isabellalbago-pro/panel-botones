@@ -1,3 +1,12 @@
+const ICON = {
+  "Links": "🔗",
+  "Play Book": "📘",
+  "Manuales": "📚",
+  "Time Lines": "⏱️",
+  "Presentaciones": "🖥️",
+  "Troubleshooting": "🛠️",
+  "SECCIÓN": "🗂️"
+};
 const grid=document.getElementById('grid');const search=document.getElementById('search');const resultEl=document.getElementById('result');let all=[];
 
 // detect if home (expects data/home.json with nombre+ruta)
