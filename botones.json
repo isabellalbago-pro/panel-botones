@@ -1,8 +1,8 @@
 [
   {
     "texto": "MES-FUNZA",
-    "tipo": "mensaje",
-    "datos": "Esperando el link"
+     "tipo": "link",
+     "url": "https://meswebgsft-funza.azure.intra.pepsico.com/Thingworx/Runtime/index.html#master=PepsiCo_Master&mashup=MES_Dashboard&__applyThemeName=PepsiCo%20Default%20Theme&_refreshTS=1695187030933'"
   },
   {
     "texto": "MES-MEXICALI",
